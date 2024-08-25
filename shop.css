@@ -1,0 +1,81 @@
+body{
+    background-image: url(IMAGE/Free-pink-gradient-aesthetic-background-from-Fotor.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: repeat;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.navbar{
+    background-color:transparent;
+    overflow: hidden;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float : right;
+    margin: 30px;
+    font-size: 30px;
+}
+a{
+    color: rgb(83, 16, 158)
+}
+.navbar a:hover{
+    background-color:transparent;
+    color: #131eb6e3;
+    padding: 1px;
+} 
+.abc{
+    margin: 10px;
+    flex-wrap: wrap;
+    text-align: center;
+    display: flex;
+}
+
+.bcd{
+    margin: 30px;
+    padding: 10px;
+    border: 3px dashed rgb(135, 98, 204);
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+button{
+    background-color: rgb(236, 198, 233);
+    color: rgba(103, 116, 236, 0.856);
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 6px;
+    margin-top: 5px;
+    border: 1px dotted blue;
+}
+button:hover{
+    background-color: rgb(226, 128, 205);
+    color: rgb(60, 65, 134);
+}
+
+img{
+    padding: 10px;
+}
+footer{
+    background-color: transparent);
+    padding: 10px;
+    margin: 0px;
+    color: rgb(116, 18, 228);
+    font-size: 24px;
+}
+p{
+    padding: 10px;
+}
+
