@@ -39,7 +39,7 @@ a{
     min-height: 50vh;
     background: url(IMAGE/Free-pink-gradient-aesthetic-background-from-Fotor.jpg);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
  }
 .form{
     width: 420px;
@@ -112,7 +112,5 @@ p{
 h3{
     padding-top: 50px;
 }
-
- 
 
  
